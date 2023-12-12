@@ -1,17 +1,10 @@
 FACULTAD DE INGIENERIA CIVIL
-ING TOPOGRAFO GEOMATICO
-
-2-B
-
-Obtener la medición de distancias y áreas que faciliten el trabajo y la
-precisión de las operaciones dentro de la topografía mediante un programa informático
-
- 
- profesor: Sebastian Gonzalez Zepeda
-
-Andrés García José Armando  
-                                                                                                                                
-                                                               Coquimatlán, Col. A 27 de octubre de 2023
+<br>ING TOPOGRAFO GEOMATICO
+<br>2-B
+<br>**Obtener la medición de distancias y áreas que faciliten el trabajo y la precisión de las operaciones dentro de la topografía mediante un programa informático**
+<br>Andrés García José Armando  
+<br>Asesor: Sebastian Gonzalez Zepeda
+<br>Coquimatlán, Col. A 27 de octubre de 2023
 
 
 
