@@ -1,14 +1,25 @@
+FACULTAD DE INGIENERIA CIVIL
+ING TOPOGRAFO GEOMATICO
+
+2-B
+
+Obtener la medición de distancias y áreas que faciliten el trabajo y la
+precisión de las operaciones dentro de la topografía mediante un programa informático
+
+ 
+ profesor: Sebastian Gonzalez Zepeda
+
+Andrés García José Armando  
+                                                                                                                                
+                                                               Coquimatlán, Col. A 27 de octubre de 2023
+
+
+
 TEMA DEL PROYECTO
 Obtener la medición de distancias y áreas que faciliten el trabajo y la precisión de las operaciones dentro de la topografía.
 
 INTRODUCCIÓN
 La medición precisa de distancias y áreas es fundamental en la topografía para llevar a cabo operaciones y proyectos con eficiencia y exactitud. En este contexto, las calculadoras topográficas se convierten en herramientas esenciales que simplifican y agilizan enormemente el proceso de cálculo, permitiendo a los topógrafos y profesionales relacionados realizar mediciones con mayor rapidez y precisión. Esta introducción se centra en cómo una calculadora topográfica puede facilitar el trabajo y mejorar la precisión en las operaciones topográficas. Las calculadoras topográficas están diseñadas para realizar cálculos relacionados con la topografía, como la distancia entre puntos, el cálculo de áreas y volúmenes, y la elevación de puntos, entre otras.
-
-
-
-
-
-
 
 PLANTEAMIENTO DEL PROBLEMA
 Inconsistencia en las mediciones de elevación con una calculadora topográfica. Los profesionales de la Topografía utilizan calculadoras topográficas para realizar mediciones precisas de elevación en terrenos variados. Sin embargo, se ha observado una inconsistencia en las mediciones de elevación proporcionadas por ciertas calculadoras topográficas en diferentes condiciones y ubicaciones geográficas. Esta inconsistencia en las mediciones de elevación compromete la precisión de los datos topográficos, lo que, a su vez, puede afectar la planificación y ejecución de proyectos de construcción, agricultura de precisión y otras aplicaciones críticas.
